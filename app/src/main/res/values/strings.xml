@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">finedust-part4-06</string>
+    <string name="additional_info">자료출처: 환경부/한국환경공단\n주의사항: 해당 기관이 제공하는 자료는 \'인증을 받이 않은 실시간 자료\'이므로 자료 오류 및 표출방식에 따라 값이 다를 수 있습니다.</string>
+    <string name="error_message">데이터를 받아오는데 문제가 발생하였습니다.</string>
+    <string name="fined_dust_text">미세먼지</string>
+    <string name="loading_text">로딩중...</string>
 </resources>
